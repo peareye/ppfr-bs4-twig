@@ -1,0 +1,55 @@
+@media (max-width: 543px) {
+    body {
+        background-color: chocolate;
+    }
+    .card {}
+}
+@media (min-width: 544px) {
+    body {
+        background-color: tomato;
+    }
+}
+
+// Medium devices (tablets, 48em and up)
+@media (min-width: 768px) {
+    body {
+        background-color: yellow;
+    }
+}
+
+// Large devices (desktops, 62em and up)
+@media (min-width: 992px) {
+    body {
+        background-color: tan;
+    }
+}
+
+// Extra large devices (large desktops, 75em and up)
+@media (min-width: 1200px) {
+    body {
+        background-color: aqua;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
